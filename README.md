@@ -26,3 +26,6 @@ This is a simple REST API built using Python and Flask. It returns a "Hello Worl
 ## Access
 
 Access the API at: http://localhost:5000/
+
+## Screenshot
+![image](https://github.com/user-attachments/assets/ef117683-f7fd-4f18-baaa-b29d5da3e47a)
