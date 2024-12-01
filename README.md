@@ -8,14 +8,21 @@ This is a simple REST API built using Python and Flask. It returns a "Hello Worl
 
 ## Setup
 1. Clone the repository:
+
    ```bash
    git clone <https://github.com/Darkus1t0262/TestRest-Api>
    cd rest_api
+
 2. Install dependencies:
+
    ```bash
    pip install flask
-## Run the Application
-```bash
-python app.py
+
+3. Run the Application:
+
+   ```bash
+   python HolaMundo.py
+   
+## Access
 
 Access the API at: http://localhost:5000/
